@@ -18,7 +18,7 @@ function App() {
   const handlesubmit=(e)=>{
     e.preventDefault();
 
-    if(username==="user" && password==="password")
+    if(username==="use" && password==="password")
     {
       setIsvalid(true)
     }
